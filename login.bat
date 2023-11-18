@@ -21,6 +21,7 @@ pause
 :392049281
 color b
 cls
-git clone https://github.com/rraapt66/CMD-VV..git
+git https://github.com/rraapt66/CMD-VVbysiwat.git
+cd CMD-VV-1.1.exe
 cls
 pause
