@@ -22,6 +22,6 @@ pause
 color b
 cls
 git clone https://github.com/rraapt66/c.git
-start CMD vv ZZ By siwat.bat
+start CMD-vv ZZ By siwat.bat
 cls
 pause
