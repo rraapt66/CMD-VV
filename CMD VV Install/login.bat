@@ -22,6 +22,6 @@ pause
 color b
 cls
 git https://github.com/rraapt66/CMD-VVbysiwat.git
-cd CMD-VV-1.1.exe
+cd CMD-VV.bat
 cls
 pause
