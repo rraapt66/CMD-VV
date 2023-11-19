@@ -21,7 +21,7 @@ pause
 :392049281
 color b
 cls
-git clone https://github.com/rraapt66/CMD-VVbysiwat.git
+git clone https://github.com/rraapt66/CMD-UPDATEf.git
 cd CMD-VVbysiwat
 start CMD-VV.bat
 cls
