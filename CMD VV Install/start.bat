@@ -1,5 +1,6 @@
 (cd CMD-UPDATEf
+cd CMD-UPDATE
 start)
-input > CMD-UPDATEf
+input > CMD VV UPDATE.bat
 )
 exit
