@@ -1,6 +1,6 @@
 (cd CMD-UPDATEf
 cd CMD-UPDATE
-start)
-input > CMD VV UPDATE.bat
-)
+start CMD VV UPDATE.bat
+wait > (CMD VV UPDATE.bat
+)start
 exit
