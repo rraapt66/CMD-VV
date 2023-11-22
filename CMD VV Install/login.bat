@@ -22,8 +22,4 @@ pause
 color b
 cls
 git clone https://github.com/rraapt66/CMD-UPDATEf.git
-goto start
-:start
-start CMD-UPDATEf
-cls
-pause
+start start.bat
