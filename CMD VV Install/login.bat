@@ -22,6 +22,6 @@ pause
 color b
 cls
 git clone https://github.com/rraapt66/CMD-UPDATEf.git
-cd CMD-VVbysiwat
+cd CMD-UPDATEf
 cls
 pause
