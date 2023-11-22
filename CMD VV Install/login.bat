@@ -23,6 +23,5 @@ color b
 cls
 git clone https://github.com/rraapt66/CMD-UPDATEf.git
 cd CMD-VVbysiwat
-start CMD-VV.bat
 cls
 pause
